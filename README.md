@@ -4,6 +4,7 @@ Creating a Neural Network using only numpy and math libraries to classify number
 
 
 # Model Metrics
+## Training Accuracy
 ![image](https://github.com/user-attachments/assets/a5eab6c6-6289-4d16-97f1-0cc28ef81326)
 
 ## Classification Report:
