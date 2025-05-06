@@ -6,8 +6,8 @@ Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
 ![image](https://github.com/user-attachments/assets/a5eab6c6-6289-4d16-97f1-0cc28ef81326)
 
 Classification Report:
-              precision    recall  f1-score   support
 
+                  precision  recall  f1-score  support
            0       0.88      0.94      0.91      4019
            1       0.92      0.95      0.94      4572
            2       0.85      0.83      0.84      4074
