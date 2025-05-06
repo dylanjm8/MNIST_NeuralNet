@@ -1,7 +1,7 @@
 # MNIST Neural Network
 Creating a Neural Network using only numpy and math libraries to classify numbers from the MNIST dataset of handwritten digits. 
 
-Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
+
 
 # Model Metrics
 ![image](https://github.com/user-attachments/assets/a5eab6c6-6289-4d16-97f1-0cc28ef81326)
@@ -24,3 +24,7 @@ Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
 
 ## Confusion Matrix 
 ![image](https://github.com/user-attachments/assets/4b6df117-3c57-493a-8ce9-84b2b67656f6)
+
+Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
+
+Followed guide from https://www.youtube.com/watch?v=w8yWXqWQYmU
