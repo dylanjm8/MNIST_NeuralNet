@@ -27,4 +27,4 @@ Creating a Neural Network using only numpy and math libraries to classify number
 
 Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
 
-Followed guide from https://www.youtube.com/watch?v=w8yWXqWQYmU
+Followed the guide from https://www.youtube.com/watch?v=w8yWXqWQYmU
