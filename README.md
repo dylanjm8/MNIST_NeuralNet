@@ -21,3 +21,6 @@ Dataset pulled from: https://www.kaggle.com/competitions/digit-recognizer/data
            9       0.76      0.80      0.78      4093
 
     accuracy                           0.84     41000
+
+## Confusion Matrix 
+![image](https://github.com/user-attachments/assets/4b6df117-3c57-493a-8ce9-84b2b67656f6)
